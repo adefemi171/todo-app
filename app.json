@@ -2,6 +2,11 @@
   "expo": {
     "name": "todo-app",
     "slug": "todo-app",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -17,7 +22,13 @@
       "**/*"
     ],
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+      "bundleIdentifier": "com.anoraks.Todo-App",
+      "buildNumber": "1.0.0"
+    },
+    "android": {
+      "package": "com.anoraks.Todo-App",
+      "versionCode": 1
     },
     "web": {
       "favicon": "./assets/favicon.png"
