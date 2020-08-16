@@ -74,15 +74,13 @@ npm run watch
 
 Expo for Android
 
-```
 [Expo](https://play.google.com/store/apps/details?id=host.exp.exponent)
-```
+
 
 Expo for IOS
 
-```
 [Expo](https://itunes.com/apps/exponent/)
-```
+
 ### Start the react native bundler to test project on your device
 Using expo
 
@@ -92,6 +90,4 @@ expo start
 
 ### The running application can be found on Expo using the link below
 
-```
 [Todo-App](https://exp.host/@adefemi/Todo-App)
-```
