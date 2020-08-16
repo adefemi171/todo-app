@@ -23,11 +23,11 @@
     ],
     "ios": {
       "supportsTablet": true,
-      "bundleIdentifier": "com.anoraks.todo_App",
+      "bundleIdentifier": "com.anoraks.TodoApp",
       "buildNumber": "1.0.0"
     },
     "android": {
-      "package": "com.anoraks.todo_App",
+      "package": "com.anoraks.TodoApp",
       "versionCode": 1
     },
     "web": {
