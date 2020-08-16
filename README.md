@@ -88,6 +88,6 @@ Using expo
 expo start
 ```
 
-### The running application can be found on Expo using the link below
+### The manifest URL of the application can be found on
 
-[Todo-App](https://exp.host/@adefemi/Todo-App)
+[Todo-App](https://exp.host/@adefemi/todo-app)
